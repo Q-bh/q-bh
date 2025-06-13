@@ -1,7 +1,8 @@
 ## Hello it is me
-Look at these cool gravatars
-![My GitHub Avatar](https://github.com/Q-bh.png)
-![My GitLab Avatar](https://secure.gravatar.com/avatar/c6bd57398a8b04f1329c7f3a15d67621e62b534578b81065ae7baf57bfe00de0?s=1600&d=identicon)
+Look at my cool gravatars
+
+<img src="https://github.com/Q-bh.png" alt="My Avatar" width="100"/>
+<img src="https://secure.gravatar.com/avatar/c6bd57398a8b04f1329c7f3a15d67621e62b534578b81065ae7baf57bfe00de0?s=1600&d=identicon" alt="My Avatar" width="100"/>
 
 <!--
 **Q-bh/q-bh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
